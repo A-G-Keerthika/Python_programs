@@ -41,7 +41,7 @@ elif c==11:
 elif c==12:
   print("concatenation of list1 and list2 : ",l1+l2)
 elif c==13:
-  print("repetatin of list 1 (2time) : ",l1*2);
+  print("repetition of list 1 (2time) : ",l1*2);
 elif c==14:
   print("lenght of the list 1 : ",len(l1))
 elif c==15:
