@@ -1,4 +1,4 @@
-#2.	Write a Python function which counts vowels and consonant in a word.
+#Write a Python function which counts vowels and consonant in a word.
 
 def count(s):
   v=0
