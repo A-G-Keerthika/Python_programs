@@ -1,4 +1,4 @@
-#program3 : Write a Python function which counts positive and negative numbers in a given numbers.
+#Write a Python function which counts positive and negative numbers in a given numbers.
 def pncount(n,ls):
   n=0;
   p=0;
